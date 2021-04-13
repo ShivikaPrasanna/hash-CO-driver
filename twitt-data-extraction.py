@@ -20,7 +20,7 @@ if not output_file.lower().endswith('.json'):
     print("Output filename should contain .json extension.")
 
 print("------------- RUNNING PARAMETERS ------------")
-print("Credentials stored: " + credentials_path)
+print("Credentials stored in: " + credentials_path)
 print("Output stored in JSON format: " + output_file)
 #filepath = "../hash-CO-driver/twitter_credentials.json"
 
